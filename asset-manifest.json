@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/link-shortner-app/static/css/main.f49993c0.css",
+    "main.js": "/link-shortner-app/static/js/main.becd033c.js",
+    "static/js/787.20f81ba7.chunk.js": "/link-shortner-app/static/js/787.20f81ba7.chunk.js",
+    "index.html": "/link-shortner-app/index.html",
+    "main.f49993c0.css.map": "/link-shortner-app/static/css/main.f49993c0.css.map",
+    "main.becd033c.js.map": "/link-shortner-app/static/js/main.becd033c.js.map",
+    "787.20f81ba7.chunk.js.map": "/link-shortner-app/static/js/787.20f81ba7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f49993c0.css",
+    "static/js/main.becd033c.js"
+  ]
+}
